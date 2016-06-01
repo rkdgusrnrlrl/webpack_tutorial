@@ -1,0 +1,1 @@
+module.exports = ['cat01','cat02','cat03','cat04']
